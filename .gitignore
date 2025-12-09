@@ -1,10 +1,10 @@
 # Hugo 构建产物
-/public/
-/resources/
+public/
+resources/
 
 # Hugo 缓存（新版本会生成）
 .hugo_build.lock
-/resources/_gen/
+resources/_gen/
 
 # macOS 系统垃圾文件
 .DS_Store

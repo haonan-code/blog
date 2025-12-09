@@ -1,0 +1,4 @@
+baseURL = 'https://blog.550558.xyz/'
+theme = "hugo-theme-stack"
+languageCode = 'zh-cn'
+title = '我的博客'

@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>hhn</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.550558.xyz/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 09 Dec 2025 21:00:19 +0800</lastBuildDate><atom:link href="https://blog.550558.xyz/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>技术</title>
+        <link>https://blog.550558.xyz/categories/%E6%8A%80%E6%9C%AF/</link>
+        <pubDate>Tue, 09 Dec 2025 21:00:19 +0800</pubDate>
+        
+        <guid>https://blog.550558.xyz/categories/%E6%8A%80%E6%9C%AF/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Test</title>
         <link>https://blog.550558.xyz/categories/test/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>

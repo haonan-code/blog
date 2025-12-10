@@ -4,9 +4,7 @@ title = 'MySQL 常见问题'
 categories = ["技术"] 
 tags = ["Hugo", "博客搭建"]
 description = "用于列表页显示的摘要"
-
-featured_image = "mysql.jpg"
-
+image = "mysql.jpg"
 +++
 
 ## MySQL 数据库

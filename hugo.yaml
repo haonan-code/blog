@@ -1,8 +1,8 @@
 baseurl: https://blog.550558.xyz
 languageCode: zh-cn
 theme: hugo-theme-stack
-title: hhn's blog
-copyright: hhn
+title: haonan
+copyright: haonan
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -15,7 +15,7 @@ hasCJKLanguage: true
 languages:
     zh-cn:
         languageName: 简体中文
-        title: hhn
+        title: haonan
         weight: 2
         params:
             # sidebar:
@@ -204,13 +204,13 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/haonan-code
           params:
               icon: brand-github
 
         - identifier: twitter
           name: Twitter
-          url: https://twitter.com
+          url: https://x.com/HelloPanda5678
           params:
               icon: brand-twitter
 

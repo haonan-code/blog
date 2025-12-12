@@ -1,8 +1,8 @@
 baseurl: https://blog.550558.xyz
 languageCode: zh-cn
 theme: hugo-theme-stack
-title: haonan
-copyright: haonan
+title: Haonan's Blog
+copyright: Haonan's Blog
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -15,11 +15,8 @@ hasCJKLanguage: true
 languages:
     zh-cn:
         languageName: 简体中文
-        title: haonan
+        title: Haonan's Blog
         weight: 2
-        params:
-            # sidebar:
-            #     subtitle: hhn 的 blog
 
 services:
     # Change it to your Disqus shortname before using
@@ -254,3 +251,6 @@ markup:
         lineNos: true
         lineNumbersInTable: true
         tabWidth: 4
+
+# Enable global emoji support
+enableEmoji: true

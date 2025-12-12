@@ -1,10 +1,14 @@
 +++
-date = '2025-12-09T21:00:19+08:00'
-title = 'MySQL 常见问题test'
-image = "mysql.jpg"
-categories = ["技术"] 
-tags = ["Hugo", "博客搭建"]
-description = "用于列表页显示的摘要"
+title: 冒号声明方式
+description: 用于列表页显示的摘要
+date: 2025-12-12
+image: mysql.jpg
+categories:
+    - Test
+    - 测试
+tags:
+    - Hugo
+    - 博客搭建
 +++
 
 ## MySQL 数据库

@@ -57,7 +57,7 @@ languages:
 params:
 
   env: production
-  description: "记录技术、编程与工程实践"
+  description: "个人技术博客"
 
   defaultTheme: auto
   disableThemeToggle: false
@@ -70,6 +70,10 @@ params:
   ShowToc: true
   TocOpen: false
 
+  DateFormat: "2006-01-02"
+  ShowLastMod: true
+  enableGitInfo: true
+
   ShowShareButtons: false
   ShowRssButtonInSectionTermList: true
 
@@ -80,8 +84,8 @@ params:
   # --------------------------
 
   homeInfoParams:
-    Title: "欢迎来到 Haonan's Blog"
-    Content: "这里记录后端、系统与工程实践相关内容。"
+    Title: "你好 👋"
+    Content: "记录技术与折腾过程"
 
   # --------------------------
   # Profile 模式（关闭）

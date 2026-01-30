@@ -1,5 +1,6 @@
 ---
 title: "关于"
+layout: single
 ---
 
 你好，我是 hhn。

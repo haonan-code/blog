@@ -53,6 +53,7 @@ languages:
 # --------------------------------------------------
 # PaperMod 参数
 # --------------------------------------------------
+enableGitInfo: true
 
 params:
 
@@ -72,7 +73,6 @@ params:
 
   DateFormat: "2006-01-02"
   ShowLastMod: true
-  enableGitInfo: true
 
   ShowShareButtons: false
   ShowRssButtonInSectionTermList: true

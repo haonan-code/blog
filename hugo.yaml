@@ -57,7 +57,6 @@ languages:
 params:
 
   env: production
-  author: Haonan
   description: "记录技术、编程与工程实践"
 
   defaultTheme: auto
@@ -96,10 +95,14 @@ params:
   # --------------------------
 
   socialIcons:
-    - name: github
-      url: https://github.com/haonan-code
     - name: twitter
       url: https://x.com/HelloPanda5678
+    - name: github
+      url: https://github.com/haonan-code
+    - name: youtube
+      url: https://www.youtube.com/@PeterPan-2022
+    - name: bilibili
+      url: https://space.bilibili.com/381421047
 
   # --------------------------
   # Logo
@@ -137,17 +140,21 @@ menu:
       url: /archives/
       weight: 2
 
+    - name: 分类
+      url: /categories/
+      weight: 3
+
     - name: 标签
       url: /tags/
-      weight: 3
+      weight: 4
 
     - name: 搜索
       url: /search/
-      weight: 4
+      weight: 5
 
     - name: 关于
       url: /about/
-      weight: 5
+      weight: 6
 
 
 # --------------------------------------------------

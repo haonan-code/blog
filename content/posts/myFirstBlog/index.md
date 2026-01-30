@@ -2,6 +2,7 @@
 date = '2025-12-09T13:29:41+08:00'
 title = 'MyFirstBlog'
 tags = ["MySQL"]
+categories = ["MySQL"]
 +++
 
 ## MySQL 数据库

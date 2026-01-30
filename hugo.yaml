@@ -1,7 +1,7 @@
 baseURL: https://blog.haonan.de
 languageCode: zh-cn
 title: "Haonan's Blog"
-theme: PaperMod
+theme: papermod
 copyright: "Haonan's Blog"
 
 defaultContentLanguage: zh-cn
